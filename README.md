@@ -1,4 +1,4 @@
-# forgedlogics
+# Forgedlogics
 
 Creative technology, digital experiences, and AI-powered marketing systems.
 
