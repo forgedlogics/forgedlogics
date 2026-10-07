@@ -1,16 +1,17 @@
-## Hi there 👋
+# forgedlogics
 
-<!--
-**forgedlogics/forgedlogics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creative technology, digital experiences, and AI-powered marketing systems.
 
-Here are some ideas to get you started:
+I build projects at the intersection of brand storytelling, web experiences, automation, and emerging tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Digital brand experiences
+- Marketing and creative strategy
+- AI-assisted workflows and automation
+- Web-based concepts and experiments
+
+## Selected work
+
+- **IcySpicy Estate Website** — A visual real-estate web experience exploring digital presentation and audience engagement.
+- More projects in progress.
